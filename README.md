@@ -1,8 +1,6 @@
 <img src="OPULLENCEEE.png" width="100%">
 <div align="center">
 
-<img src="banner.png" width="100%">
-
 # 𝑰𝒛𝒛𝒂 𝑼𝒔𝒎𝒂𝒏
 
 ### 「 First-Year ICS Student • Always Learning 」
