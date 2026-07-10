@@ -21,7 +21,7 @@
 </td>
 
 <td>
-<img src="cat.png" width="220">
+<img src="lily sticker.png" width="220">
 </td>
 
 </tr>
