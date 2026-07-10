@@ -75,12 +75,12 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 
 ---
 
-<table>
+<table width="100%" style="border:3px solid #FFB6D9;border-radius:20px;border-collapse:collapse;background-color:#FFF7FB;">
 <tr>
 
 <td>
 
-<img src="redbull.png" width="200">
+<img src="seashell.png" width="200">
 
 </td>
 
