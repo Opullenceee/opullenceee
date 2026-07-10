@@ -1,24 +1,28 @@
 <img src="OPULLENCEEE.png" width="100%">
+<table>
+<tr>
+<td width="65%">
 
 # Hi, I'm Izza 👋
 
-💻 First-Year ICS Student
+💙 First-Year ICS Student
 
-🌸 Learning:
+🌱 Currently Learning
 - HTML
 - CSS
 - JavaScript
 - Python
 
-📚 Interested in:
+💗 Interests
 - AI
 - Data Science
 - Machine Learning
 
-## Projects
-- 🎬 Netflix Matchmaker
-- 🌦️ Weatherly
-- 📟 Pixel Calculator
+</td>
 
-## Connect
-- idkitsizza@gmail.com
+<td>
+<img src="cat.png" width="220">
+</td>
+
+</tr>
+</table>
