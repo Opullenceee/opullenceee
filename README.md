@@ -75,29 +75,40 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 
 ---
 
-<table width="100%" style="border:3px solid #FFB6D9;border-radius:20px;border-collapse:collapse;background-color:#FFF7FB;">
+<table width="100%" style="width:100%; border:3px solid #FFB6D9; border-radius:20px; border-collapse:collapse; background-color:#FFF7FB;">
+
 <tr>
 
-<td>
+<td width="35%" align="center" valign="middle" style="padding:40px; border-right:3px solid #FFD3E8;">
 
-<img src="seashell.png" width="200">
+<img src="seashell.png" width="340" alt="Seashell">
 
 </td>
 
-<td>
+<td width="65%" valign="middle" style="padding:40px;">
 
-## 🚀 Current Projects
+<h2 style="margin-top:0; color:#FF69B4; font-family:Arial,sans-serif; font-size:36px;">
+🚀 Current Projects
+</h2>
 
-🌦️ Weatherly
+<hr style="border:1px solid #FFD3E8;">
 
-🎬 Netflix Matchmaker (Coming)
+<p style="color:#D85D9D; font-size:22px; line-height:2.2; font-family:Arial,sans-serif;">
 
-📠 Pixel Calculator
+🌦️ <b>Weatherly</b><br><br>
+
+🎬 <b>Netflix Matchmaker</b> <i>(Coming Soon)</i><br><br>
+
+🧮 <b>Pixel Calculator</b>
+
+</p>
 
 </td>
 
 </tr>
+
 </table>
+
 
 ---
 
