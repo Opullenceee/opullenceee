@@ -75,7 +75,6 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=opullenceee&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=opullenceee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <table width="100%" style="width:100%; border:3px solid #FFB6D9; border-radius:20px; border-collapse:collapse; background-color:#FFF7FB;">
 
@@ -115,19 +114,8 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 ---
 
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.instagram.com/opullencee">
-<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:idkitsizza@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/opullencee) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/opullencee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/opullencee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idkitsizza@gmail.com) 
 
 ---
 
