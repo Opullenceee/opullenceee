@@ -18,7 +18,7 @@
 <td width="70%" valign="top" style="padding:28px;border-right:3px solid #FFD3E8;">
 
 <h2 style="margin-top:0;color:#FF69B4;font-family:Arial,sans-serif;">
-🍁 Hi, I'm Izza Usman ✶𝒾
+🍁 Hi, I'm Izza Usman
 </h2>
 
 <p style="color:#D85D9D;font-size:15px;line-height:1.8;font-family:Arial,sans-serif;">
@@ -112,7 +112,7 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 ---
 
 
-## 💗ྀི Socials:
+##  Socials:
 <p align="center">
 
 <a href="https://www.instagram.com/opullencee">
