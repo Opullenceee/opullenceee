@@ -6,7 +6,7 @@
 <td width="70%" valign="top" style="padding:28px;border-right:3px solid #FFD3E8;">
 
 <h2 style="margin-top:0;color:#FF69B4;font-family:Arial,sans-serif;">
-🌸 Hi, I'm Izza 👋
+🌸 About Me
 </h2>
 
 <p style="color:#D85D9D;font-size:15px;line-height:1.8;font-family:Arial,sans-serif;">
@@ -26,6 +26,7 @@ I'm a first-year ICS student from Pakistan with a passion for creating aesthetic
 <li>CSS</li>
 <li>JavaScript</li>
 <li>Python</li>
+<li>Git & GitHub</li>
 </ul>
 
 <h3 style="color:#FF69B4;font-family:Arial,sans-serif;">
@@ -49,14 +50,4 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 </tr>
 
 </table>
---------------------------------------------------------------------------------------------------------
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
---------------------------------------------------------------------------------------------------------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Opullenceee&show_icons=true&theme=rose_pine)
---------------------------------------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opullenceee&layout=compact&theme=rose_pine)
-
 
