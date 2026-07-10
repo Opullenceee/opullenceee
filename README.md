@@ -1,3 +1,5 @@
+<img src="OPULLENCEEE.png" width="100%">
+
 # Hi, I'm Izza 👋
 
 💻 First-Year ICS Student
