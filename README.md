@@ -1,7 +1,7 @@
 <img src="OPULLENCEEE.png" width="100%">
 <table>
 <tr>
-<td width="65%">
+<td width="100%">
 
 # Hi, I'm Izza 👋
 
