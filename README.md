@@ -5,9 +5,9 @@
 
 # 𝑰𝒛𝒛𝒂 𝑼𝒔𝒎𝒂𝒏
 
-### 「 Software Developer • First-Year ICS Student • Always Learning 」
+### 「 First-Year ICS Student • Always Learning 」
 
-*"Building meaningful projects, one commit at a time."*
+*"One commit at a time."*
 
 </div>
 
@@ -92,13 +92,9 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 
 🌦️ Weatherly
 
-🎬 Netflix Matchmaker
+🎬 Netflix Matchmaker (Coming)
 
-📝 Notes App
-
-🎮 Tic Tac Toe
-
-🔗 URL Shortener
+📠 Pixel Calculator
 
 </td>
 
@@ -107,23 +103,12 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=idkitxizza&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkitxizza&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.instagram.com/your_username">
+<a href="https://www.instagram.com/opullencee">
 <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
