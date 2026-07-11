@@ -71,9 +71,7 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 ---
 #⠀⋆˚꩜｡<b> GitHub Stats:</b>
 
-![](https://github-readme-stats.shion.dev/api?username=opullenceee&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=opullenceee&theme=solarized-light&hide_border=false) <br>
+![](https://streak-stats.demolab.com/?user=opullenceee&theme=catppuccin_latte&hide_border=true)<br/>
 
 ---
 
