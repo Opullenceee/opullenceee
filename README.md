@@ -94,12 +94,11 @@ Artificial Intelligence • Data Science • Machine Learning • Front-End Deve
 <hr style="border:1px solid #FFD3E8;">
 
 <p style="color:#D85D9D; font-size:22px; line-height:2.2; font-family:Arial,sans-serif;">
-
-🌦️ <b>Weatherly</b><br><br>
-
-🎬 <b>Netflix Matchmaker</b> <i>(Coming Soon)</i><br><br>
-
-🧮 <b>Pixel Calculator</b>
+<ul>
+  <li>Weatherly</li>
+  <li>Pixel Calculator</li>
+  <li>Student Management System</li>
+</ul>
 
 </p>
 
