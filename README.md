@@ -1,9 +1,7 @@
-
 <img src="banner.png" width="100%">
 <div align="center">
 
 ---
-
 
 <h1 align="center">Hi there, I'm Izza 𓍢🌷͙֒ </h1>
 <h3 align="center">a.k.a <a href="https://github.com/Opullenceee">@Opullenceee</a></h3>
@@ -11,6 +9,7 @@
 <p align="center">
 Computer Science student based in Pakistan
 </p>
+
 <p align="center">
   <a href="https://www.instagram.com/opullencee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/opullencee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,33 +19,43 @@ Computer Science student based in Pakistan
 
 ---
 
-<table width="100%" style="border:3px solid;border-radius:20px;border-collapse:collapse;background-color:transparent;">
+<table width="100%" style="width:100%; border:3px solid; border-radius:20px; border-collapse:collapse; background-color:transparent;">
 
 <tr>
 
-<td width="70%" valign="top" style="padding:28px;border-right:3px solid;">
+<td width="35%" align="center" valign="middle" style="padding:40px; border-right:3px solid;">
 
-### ⋆𐙚 ̊. A little about me
+<img src="sticker1.png" width="340" alt="Sticker">
 
-I'm a CS student who got tired of ideas looking boring, so I taught myself to make them not
+</td>
 
-boring. Most days that means designing interfaces in Figma, breaking and fixing them in HTML/CSS/JS,
+<td width="65%" valign="middle" style="padding:40px;">
 
-and occasionally convincing Python to do what I want. I'm chasing a future in AI, one small
+<h2 style="margin-top:0; font-family:Arial,sans-serif; font-size:36px;">
 
-project (and one large coffee) at a time.
+⋆𐙚 ̊. A little about me
+
+</h2>
 
 <hr style="border:1px solid;">
 
-### Fun facts .⋆❀°
+<p style="font-size:18px; line-height:1.8; font-family:Arial,sans-serif;">
 
-- I take "meh" ideas and give them a whole aesthetic glow-up (that's kind of my whole thing).
+I'm a CS student who got tired of ideas looking boring, so I taught myself to make them not boring. Most days that means designing interfaces in Figma, breaking and fixing them in HTML/CSS/JS, and occasionally convincing Python to do what I want. I'm chasing a future in AI, one small project (and one large coffee) at a time.
 
-- Coffee is basically my second IDE. Nothing compiles without it.
+</p>
 
-- I build random little projects for no reason other than "can I make this exist" such as desktop widgets, tiny tools, whatever's living in my head that week.
+<h3>Fun facts .⋆❀°</h3>
 
-<img src="sticker1.png" width="320px" alt="Sticker"/>
+<ul>
+
+<li>I take "meh" ideas and give them a whole aesthetic glow-up (that's kind of my whole thing).</li>
+
+<li>Coffee is basically my second IDE. Nothing compiles without it.</li>
+
+<li>I build random little projects for no reason other than "can I make this exist" such as desktop widgets, tiny tools, whatever's living in my head that week.</li>
+
+</ul>
 
 </td>
 
@@ -54,9 +63,7 @@ project (and one large coffee) at a time.
 
 </table>
 
-
 ---
-
 
 ### 𖹭 Tech stack
 
@@ -75,10 +82,9 @@ project (and one large coffee) at a time.
 
 ---
 
----
 #⠀⋆˚꩜｡<b> GitHub Stats:</b>
 
-![](https://streak-stats.demolab.com/?user=opullenceee&theme=catppuccin_latte&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=opullenceee\&theme=catppuccin_latte\&hide_border=true)<br/>
 
 ---
 
@@ -98,38 +104,29 @@ project (and one large coffee) at a time.
 
 ✮⋆˙Current Projects
 
-</h2
+</h2>
 
 <hr style="border:1px solid;">
 
-<p style="font-size:22px; line-height:2.2; font-family:Arial,sans-serif;">
-
-<ul>
+<ul style="font-size:22px; line-height:2.2; font-family:Arial,sans-serif;">
 
 <li>Calendar Widget</li>
-
 <li>Music Player Widget</li>
-
 <li>Pomodoro Timer Widget</li>
-
 <li>Weather Widget</li>
 
 </ul>
-
-</p>
 
 </td>
 
 </tr>
 
-</table
-
-
+</table>
 
 ---
 
 <div align="center">
 
-𐙚⋆°🦢｡⋆♡ scanning for aesthetics since forever </sub>
+𐙚⋆°🦢｡⋆♡ scanning for aesthetics since forever
 
 </div>
