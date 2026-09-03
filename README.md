@@ -114,6 +114,7 @@ I'm a CS student who got tired of ideas looking boring, so I taught myself to ma
 <li>Music Player Widget</li>
 <li>Pomodoro Timer Widget</li>
 <li>Weather Widget</li>
+<li>Cinefind</li>
 
 </ul>
 
